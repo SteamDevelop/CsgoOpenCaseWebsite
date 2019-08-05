@@ -37,22 +37,22 @@ CSGO 开箱网站
   - 其他
 
 3.发货方式
-  -发送皮肤
-  -发送以太币到各大皮肤交易网站
-  -其他方式
+  - 发送皮肤
+  - 发送以太币到各大皮肤交易网站
+  - 其他方式
 
 4.技术栈
-  -Python3
-  -Nginx
-  -MYSQL
-  -REDIS
-  -NODEJS
-  -VUE
+  - Python3
+  - Nginx
+  - MYSQL
+  - REDIS
+  - NODEJS
+  - VUE
 
 5.其他说明
   <br>详细的功能说明请联系我们
   
 
-#Email：haidaohaibot@gmail.com
+# Email：haidaohaibot@gmail.com
 
 
