@@ -33,8 +33,8 @@ CSGO case opening website
   - PayPal
   - G2APAY
   - Bitcoin
-  - Skin depositing
-  - Other channels
+  - Skin depositing
+  - Other channels
 
 3. Delivery methods
   - Send skins
