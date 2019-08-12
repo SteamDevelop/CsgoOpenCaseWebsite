@@ -50,7 +50,7 @@ CSGO case opening website
   - VUE
 
 5. Other instructions
-  <br>Detailed function description, please contact us
+  <br>If you need detailed function description, please contact us
   
 
 # Email:haidaohaibot@gmail.com
