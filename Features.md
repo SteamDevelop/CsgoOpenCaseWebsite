@@ -33,13 +33,13 @@ CSGO case opening website
   - PayPal
   - G2APAY
   - Bitcoin
-  - skin depositing
-  - other channels
+  - Skin depositing
+  - Other channels
 
 3. Delivery methods
   - Send skins
   - Send Ethereum to major skin trading sites
-  - other methods
+  - Other methods
 
 4. Technology stack
   - Python3
