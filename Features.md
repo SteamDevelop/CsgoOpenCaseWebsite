@@ -1,7 +1,7 @@
 # CsgoOpenCaseWebsite
 CSGO case opening website
 
-1.Features
+1. Features
   - Caseopening module
   <br>Support for all types of boxes opening, and do the fair verification
   - Deposit and retrieve
@@ -29,7 +29,7 @@ CSGO case opening website
   - Upgrade game
   <br>New play method
 
-2.The recharge channels
+2. The recharge channels
   - PayPal
   - G2APAY
   - Bitcoin
@@ -41,7 +41,7 @@ CSGO case opening website
   - Send Ethereum to major skin trading sites
   - other methods
 
-4.Technology stack
+4. Technology stack
   - Python3
   - Nginx
   - MYSQL
@@ -53,7 +53,7 @@ CSGO case opening website
   <br>Detailed function description, please contact us
   
 
-# Email：haidaohaibot@gmail.com
+# Email:haidaohaibot@gmail.com
 
 
 
